@@ -1,1 +1,1 @@
-My own version of next js course from JavaScript mastery
+My version of DevFlow app from nextjs course.
