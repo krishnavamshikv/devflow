@@ -1,3 +1,5 @@
+"use client";
+
 import {
   ThemeProviderProps,
   ThemeProvider as NextThemeProvider,
